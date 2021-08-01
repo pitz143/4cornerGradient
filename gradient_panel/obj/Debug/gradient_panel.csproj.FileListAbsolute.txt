@@ -1,0 +1,10 @@
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\bin\Debug\gradient_panel.exe.config
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\bin\Debug\gradient_panel.exe
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\bin\Debug\gradient_panel.pdb
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\obj\Debug\gradient_panel.Properties.Resources.resources
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\obj\Debug\gradient_panel.csproj.GenerateResource.cache
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\obj\Debug\gradient_panel.csproj.CoreCompileInputs.cache
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\obj\Debug\gradient_panel.exe
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\obj\Debug\gradient_panel.pdb
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\obj\Debug\gradient_panel.Form1.resources
+C:\Users\pratik\Source\Repos\gradient_panel\gradient_panel\obj\Debug\gradient_panel.csprojAssemblyReference.cache
